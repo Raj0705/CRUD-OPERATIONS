@@ -20,6 +20,14 @@
 - .env
 - mongoose
 
+##GET Routes
+-visit http://localhost:300
+      - /
+      - /create
+      - delete/:id
+      - /update
+      
+
 This project was bootstrapped with [Create Nodejs MongoDB And React App](https://github.com/create-react-app).
 
 ## In this project I created add form , Email, validation mobile number .
