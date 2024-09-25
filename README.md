@@ -21,7 +21,7 @@
 - mongoose
 
 ## GET Routes
--visit http://localhost:300
+- visit http://localhost:300
       - /
       - /create
       - delete/:id
