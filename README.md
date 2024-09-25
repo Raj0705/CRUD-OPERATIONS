@@ -15,7 +15,10 @@
 - npm install
 - npm start
 - Express
-- cor
+- cors
+- axios
+- .env
+- mongoose
 
 This project was bootstrapped with [Create Nodejs MongoDB And React App](https://github.com/create-react-app).
 
