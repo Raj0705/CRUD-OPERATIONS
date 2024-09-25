@@ -20,7 +20,7 @@
 - .env
 - mongoose
 
-##GET Routes
+## GET Routes
 -visit http://localhost:300
       - /
       - /create
