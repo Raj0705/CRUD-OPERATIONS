@@ -29,7 +29,7 @@
  
 ## Postman
  - Install Postman to interact with REST API
- -  - Get a form with:
+ - Get a form with:
    - URL  http://localhost:3000/
    - Method: GET
   
