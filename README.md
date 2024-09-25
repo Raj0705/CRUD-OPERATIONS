@@ -22,7 +22,7 @@
 
 ## GET Routes
 - visit http://localhost:3000
-- /
+  - /
   - /create
   - /delete/:id
   - /update
