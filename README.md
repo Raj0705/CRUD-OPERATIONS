@@ -21,11 +21,11 @@
 - mongoose
 
 ## GET Routes
-- visit http://localhost:300
-      - /
+- visit http://localhost:3000
       - /create
-      - delete/:id
+      - /delete/:id
       - /update
+      - /
       
 
 This project was bootstrapped with [Create Nodejs MongoDB And React App](https://github.com/create-react-app).
