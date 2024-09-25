@@ -7,7 +7,7 @@
 - CRUD API
 
 ## Requirement
-- Node & npm
+- NodeJS & npm
 - git
 - MongoDB
 
