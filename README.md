@@ -1,7 +1,7 @@
 # Getting Started with Create Nodejs , MongoDB and React App
-# Nodejs is used for server site lang. and MongoDB is used for Backend Database
+# Nodejs is used for server site language,MongoDB is used for Backend Database and for frontend used ReactJS
 
-This project was bootstrapped with [Create React App](https://github.com/create-react-app).
+This project was bootstrapped with [Create Nodejs MongoDB And React App](https://github.com/create-react-app).
 
 ## In this project I created add form , Email, validation mobile number .
 
