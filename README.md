@@ -1,5 +1,21 @@
-# Getting Started with Create Nodejs , MongoDB and React App
+# Simple Nodejs with Express + MongoDB and React App
 <p>Nodejs is used for server site language,MongoDB is used for Backend Database and for frontend used ReactJS</p>
+
+#Features
+-Express
+-MongoDB
+-CRUD API
+
+# Requirement
+- Node & npm
+- git
+- MongoDB
+
+#Installation
+- npm install
+- npm start
+- Express
+- cor
 
 This project was bootstrapped with [Create Nodejs MongoDB And React App](https://github.com/create-react-app).
 
