@@ -29,6 +29,10 @@
  
 ## Postman
  - Install Postman to interact with REST API
+ -  - Get a form with:
+   - URL  http://localhost:3000/
+   - Method: GET
+  
  - create a add form with:
    - URL  http://localhost:3000/create
    - Method: POST
@@ -38,6 +42,16 @@
   "email":"",
   "mobile":""
 }
+
+ - Delete a form with:
+   - URL:  http://localhost:3000/delete/:id
+   - Method: Delete
+   - Body: raw + JSON(application/json)
+
+  - Update a form with:
+    - URL: http://localhost:3000/update
+    - Method: PUT
+    - Body: raw + JSON(application/json) 
       
 
 This project was bootstrapped with [Create Nodejs MongoDB And React App](https://github.com/create-react-app).
