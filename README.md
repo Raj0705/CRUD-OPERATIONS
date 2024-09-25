@@ -2,9 +2,9 @@
 <p>Nodejs is used for server site language,MongoDB is used for Backend Database and for frontend used ReactJS</p>
 
 # Features
--Express
--MongoDB
--CRUD API
+- Express
+- MongoDB
+- CRUD API
 
 # Requirement
 - Node & npm
