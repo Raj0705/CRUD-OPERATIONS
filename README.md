@@ -56,7 +56,7 @@
 
 This project was bootstrapped with [Create Nodejs MongoDB And React App](https://github.com/create-react-app).
 
-## In this project I created add form , Email, validation mobile number .
+## In this project I created add form ,Name, Email and mobile number and also edit and update.
 
 ## Available Scripts
 
