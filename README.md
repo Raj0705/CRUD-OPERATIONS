@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with Create Nodejs , MongoDB and React App
 # Nodejs is used for server site lang. and MongoDB is used for Backend Database
 
 This project was bootstrapped with [Create React App](https://github.com/create-react-app).
